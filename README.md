@@ -1,6 +1,6 @@
 # ImageExtractor
 
-'< Extract and display images by website link.>'
+ Extract and display images by website link.
   
    This project uses request,opencv,scikit-image and ipywidgets modules.
   
