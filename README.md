@@ -27,4 +27,4 @@
 
 Drop a pull request if you found a new feature :sparkles:
 
-Don't forget to star :star: if you like it 
+Don't forget to star :star: if you found this interesting. 
